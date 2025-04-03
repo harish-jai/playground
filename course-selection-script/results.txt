@@ -1,0 +1,560 @@
+Index(['Course Number', ' Course Name', 'Cross Listings', 'Credit Value',
+       'Transfer/ Double Count', ' Graduate Credit Type', 'Technical Elective',
+       'CSE 500 Level', 'Breadth Area', 'Additional Information'],
+      dtype='object')
+Index(['Course Number & Name', 'Credits', 'CM', 'CT', 'CV', 'EM', 'ES', 'IC',
+       'MM', 'OP', 'PE', 'RO', 'SP', 'SS'],
+      dtype='object')
+Course Code: ECE 501
+  Course Title:  Probability and Random Processes
+  Credits: 4
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'CM': 'M', 'CT': 'E', 'CV': 'E', 'SP': 'M'}
+--------------------
+Course Code: ECE 502
+  Course Title: Stochastic Processes
+  Credits: 3
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'CM': 'M', 'SP': 'M'}
+--------------------
+Course Code: ECE 505
+  Course Title: Computational Data Science and Machine Learning
+  Credits: 4
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'CM': 'E', 'CV': 'E', 'ES': 'M', 'SP': 'E'}
+--------------------
+Course Code: ECE 506
+  Course Title: Design of Power Electronics
+  Credits: 3
+  CSE Program Qualifying: No
+  MCS Breadth Area: nan
+  CSE Technical Elective: No
+  MEng Program Areas: {'PE': 'M', 'RO': 'E'}
+--------------------
+Course Code: ECE 508
+  Course Title: Control and Modeling of Power Electronics
+  Credits: 3
+  CSE Program Qualifying: No
+  MCS Breadth Area: nan
+  CSE Technical Elective: No
+  MEng Program Areas: {'PE': 'M', 'RO': 'E'}
+--------------------
+Course Code: ECE 509
+  Course Title: BioMEMS
+  Credits: 3
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'MM': 'M'}
+--------------------
+Course Code: ECE 511
+  Course Title: Integrated Analog/Digital Interface Circuits
+  Credits: 4
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'IC': 'M', 'MM': 'E'}
+--------------------
+Course Code: ECE 512
+  Course Title: Amorphous and Microcrystalline Semiconductor Thin Film
+  Credits: 3
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'SS': 'E'}
+--------------------
+Course Code: ECE 513
+  Course Title: Flat Panel Displays
+  Credits: 3
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'SS': 'E'}
+--------------------
+Course Code: ECE 514
+  Course Title: Advanced MEMS Devices and Technologies
+  Credits: 4
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'ES': 'E', 'MM': 'M'}
+--------------------
+Course Code: ECE 515
+  Course Title: Integrated Microsystems
+  Credits: 4
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'ES': 'M', 'IC': 'E', 'MM': 'M'}
+--------------------
+Course Code: ECE 520
+  Course Title:  Solid State Physics
+  Credits: 4
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'SS': 'M'}
+--------------------
+Course Code: ECE 521
+  Course Title:  Solid State Devices
+  Credits: 3
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'SS': 'M'}
+--------------------
+Course Code: ECE 525
+  Course Title: Advanced Solid State Microwave Circuits
+  Credits: 3
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'EM': 'M', 'IC': 'E', 'MM': 'E', 'SS': 'E'}
+--------------------
+Course Code: ECE 526
+  Course Title: Plasmonics
+  Credits: 3
+  CSE Program Qualifying: No
+  MCS Breadth Area: nan
+  CSE Technical Elective: No
+  MEng Program Areas: {'EM': 'M', 'MM': 'E', 'OP': 'M', 'SS': 'E'}
+--------------------
+Course Code: ECE 529
+  Course Title: Semiconductor Lasers and LEDs
+  Credits: 3
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'SS': 'E'}
+--------------------
+Course Code: ECE 531
+  Course Title: Antenna Theory and Design
+  Credits: 3
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'EM': 'M'}
+--------------------
+Course Code: ECE 533
+  Course Title: Microwave Measurements Laboratory
+  Credits: 3
+  CSE Program Qualifying: No
+  MCS Breadth Area: nan
+  CSE Technical Elective: No
+  MEng Program Areas: {'EM': 'M', 'IC': 'E'}
+--------------------
+Course Code: ECE 534
+  Course Title: Analysis of Electric Power Distribution Systems and Loads
+  Credits: 3
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'PE': 'M'}
+--------------------
+Course Code: ECE 535
+  Course Title: Optical Information Processing
+  Credits: 3
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'PE': 'M'}
+--------------------
+Course Code: ECE 536
+  Course Title: Statistical Optics
+  Credits: 3
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'PE': 'M'}
+--------------------
+Course Code: ECE 544
+  Course Title: Analysis of Societal Networks
+  Credits: 3
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'CM': 'M'}
+--------------------
+Course Code: ECE 550
+  Course Title:  Information Theory
+  Credits: 3
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'CM': 'M', 'ES': 'E', 'SP': 'E'}
+--------------------
+Course Code: ECE 551
+  Course Title: Matrix Methods for Signal Processing, Data Analysis, & ML
+  Credits: 4
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'CM': 'E', 'CV': 'E', 'ES': 'M', 'RO': 'E', 'SP': 'M'}
+--------------------
+Course Code: ECE 554
+  Course Title:  Introduction to Digital Communication and Coding
+  Credits: 3
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'CM': 'M'}
+--------------------
+Course Code: ECE 555
+  Course Title: Digital Communication Theory
+  Credits: 3
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'CM': 'E'}
+--------------------
+Course Code: ECE 556
+  Course Title: Image Processing
+  Credits: 3
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'CV': 'E', 'RO': 'E', 'SP': 'M'}
+--------------------
+Course Code: ECE 557
+  Course Title: Communication Networks
+  Credits: 3
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'CM': 'M'}
+--------------------
+Course Code: ECE 558
+  Course Title: Stochastic Control
+  Credits: 3
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'CM': 'M', 'CT': 'M'}
+--------------------
+Course Code: ECE 559
+  Course Title: Optimization Methods in Signal Processing and Machine Learning
+  Credits: 3
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'SP': 'M'}
+--------------------
+Course Code: ECE 564
+  Course Title: Estimation, Filtering, and Detection
+  Credits: 3
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'CM': 'E', 'CT': 'E', 'ES': 'M', 'RO': 'E', 'SP': 'M'}
+--------------------
+Course Code: ECE 565
+  Course Title: Linear Feedback Control Systems
+  Credits: 3
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'CT': 'M', 'ES': 'M', 'RO': 'E'}
+--------------------
+Course Code: ECE 566
+  Course Title: Discrete Event Systems
+  Credits: 3
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'CT': 'M', 'ES': 'M'}
+--------------------
+Course Code: ECE 602
+  Course Title: Reinforcement Learning Theory
+  Credits: 3
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'CM': 'E', 'CT': 'E', 'SP': 'E'}
+--------------------
+Course Code: ECE 620
+  Course Title: Electronic and Optical Properties of Semiconductors
+  Credits: 4
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'SS': 'E'}
+--------------------
+Course Code: ECE 631
+  Course Title: Electromagnetic Scattering
+  Credits: 3
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'EM': 'M'}
+--------------------
+Course Code: ECE 633
+  Course Title: Numerical Methods in Electromagnetics
+  Credits: 3
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'EM': 'M'}
+--------------------
+Course Code: ECE 650
+  Course Title: Channel Coding Theory
+  Credits: 3
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'CM': 'M'}
+--------------------
+Course Code: ECE 659
+  Course Title:  Adaptive Signal Processing
+  Credits: 3
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'SP': 'M'}
+--------------------
+Course Code: ECE 730
+  Course Title: Special Topics in Electromagnetics
+  Credits: 1-4
+  CSE Program Qualifying: No
+  MCS Breadth Area: nan
+  CSE Technical Elective: No
+  MEng Program Areas: {'EM': 'M'}
+--------------------
+Course Code: EECS 411
+  Course Title: Microwave Circuits I
+  Credits: 4
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'EM': 'M', 'IC': 'M', 'MM': 'E'}
+--------------------
+Course Code: EECS 413
+  Course Title: Monolithic Amplifier Circuits
+  Credits: 4
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'IC': 'M', 'MM': 'E'}
+--------------------
+Course Code: EECS 414
+  Course Title: Introduction to MEMS
+  Credits: 4
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'IC': 'E', 'MM': 'M'}
+--------------------
+Course Code: EECS 418
+  Course Title: Power Electronics
+  Credits: 4
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'IC': 'E', 'MM': 'E', 'PE': 'M'}
+--------------------
+Course Code: EECS 419
+  Course Title: Electric Machinery and Drives
+  Credits: 4
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'PE': 'M'}
+--------------------
+Course Code: EECS 421
+  Course Title: Properties of Transistors
+  Credits: 4
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'IC': 'E', 'SS': 'E'}
+--------------------
+Course Code: EECS 425
+  Course Title: Integrated Microsystems Laboratory
+  Credits: 4
+  CSE Program Qualifying: No
+  MCS Breadth Area: nan
+  CSE Technical Elective: No
+  MEng Program Areas: {'ES': 'M', 'IC': 'E', 'MM': 'M', 'SS': 'E'}
+--------------------
+Course Code: EECS 427
+  Course Title: VLSI Design I
+  Credits: 4
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: Hardware
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'IC': 'M', 'MM': 'E'}
+--------------------
+Course Code: EECS 442
+  Course Title: Computer Vision
+  Credits: 4
+  CSE Program Qualifying: No
+  MCS Breadth Area: nan
+  CSE Technical Elective: No
+  MEng Program Areas: {'CV': 'E', 'ES': 'E', 'RO': 'M'}
+--------------------
+Course Code: EECS 452
+  Course Title: Digital Signal Processing Design Laboratory
+  Credits: 4
+  CSE Program Qualifying: No
+  MCS Breadth Area: nan
+  CSE Technical Elective: No
+  MEng Program Areas: {'ES': 'M'}
+--------------------
+Course Code: EECS 455
+  Course Title: Wireless Communications Systems
+  Credits: 4
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'CM': 'E'}
+--------------------
+Course Code: EECS 460
+  Course Title: Control Systems Analysis and Design
+  Credits: 4
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'CT': 'M', 'IC': 'M', 'RO': 'E'}
+--------------------
+Course Code: EECS 461
+  Course Title: Embedded Control Systems
+  Credits: 4
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'CT': 'M', 'ES': 'M', 'RO': 'E'}
+--------------------
+Course Code: EECS 463
+  Course Title: Power Systems Design and Operations
+  Credits: 4
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'PE': 'M', 'RO': 'E'}
+--------------------
+Course Code: EECS 464
+  Course Title: Hands-on Robotics
+  Credits: 4
+  CSE Program Qualifying: No
+  MCS Breadth Area: nan
+  CSE Technical Elective: No
+  MEng Program Areas: {'RO': 'M'}
+--------------------
+Course Code: EECS 470
+  Course Title: Computer Architecture
+  Credits: 4
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: Hardware
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'ES': 'E', 'IC': 'M'}
+--------------------
+Course Code: EECS 473
+  Course Title: Advanced Embedded Systems
+  Credits: 4
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: Hardware
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'ES': 'M', 'RO': 'E'}
+--------------------
+Course Code: EECS 477
+  Course Title: Introduction to Algorithms
+  Credits: 4
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: Theory
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'IC': 'E'}
+--------------------
+Course Code: EECS 478
+  Course Title: Logic Circuit Synthesis and Optimization
+  Credits: 4
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: Hardware
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'IC': 'M'}
+--------------------
+Course Code: EECS 504
+  Course Title: Foundations of Computer Vision
+  Credits: 3
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'CV': 'M', 'ES': 'E', 'RO': 'M', 'SP': 'M'}
+--------------------
+Course Code: EECS 507
+  Course Title:  Introduction to Embedded System Research
+  Credits: 3-4
+  CSE Program Qualifying: No
+  MCS Breadth Area: nan
+  CSE Technical Elective: No
+  MEng Program Areas: {'ES': 'M', 'IC': 'E'}
+--------------------
+Course Code: EECS 522
+  Course Title: Analog Integrated Circuits
+  Credits: 4
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'IC': 'M', 'MM': 'E'}
+--------------------
+Course Code: EECS 523
+  Course Title: Digital Integrated Technology
+  Credits: 4
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'IC': 'M', 'MM': 'E', 'SS': 'E'}
+--------------------
+Course Code: EECS 542
+  Course Title: Advanced Topics in Computer Vision
+  Credits: 3
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: AI
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'CV': 'M', 'RO': 'E', 'SP': 'E'}
+--------------------
+Course Code: EECS 570
+  Course Title: Parallel Computer Architecture
+  Credits: 4
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: Hardware
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'ES': 'E', 'IC': 'M'}
+--------------------
+Course Code: EECS 571
+  Course Title: Principles of Real Time Computing
+  Credits: 4
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: Software
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'ES': 'E', 'RO': 'E'}
+--------------------
+Course Code: EECS 573
+  Course Title: Microarchitecture
+  Credits: 3
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: Hardware
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'IC': 'M'}
+--------------------
+Course Code: EECS 627
+  Course Title: VLSI Design II (Prerequisite: EECS 427)
+  Credits: 4
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: Hardware
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'IC': 'M', 'MM': 'E'}
+--------------------
+Course Code: EECS 628
+  Course Title: Advanced High Performance VLSI Design
+  Credits: 3-4
+  CSE Program Qualifying: Yes
+  MCS Breadth Area: nan
+  CSE Technical Elective: Yes
+  MEng Program Areas: {'IC': 'M', 'MM': 'E'}
+--------------------
+Total common courses found: 69
